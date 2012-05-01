@@ -1,0 +1,1 @@
+/Users/lpaulger/Documents/Titanium Studio Workspace/karrrma/Resources/ui/handheld/ApplicationWindow.js
